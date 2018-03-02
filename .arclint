@@ -1,0 +1,28 @@
+{
+  "exclude": [
+    "(^dist/)",
+    "(^node_modules/)"
+  ],
+  "linters": {
+    "chmod": {
+      "type": "chmod"
+    },
+    "filename": {
+      "type": "filename"
+    },
+    "json": {
+      "type": "json",
+      "include": [
+        "(^\\.arcconfig$)",
+        "(^\\.arclint$)",
+        "(\\.json$)"
+      ]
+    },
+    "merge-conflict": {
+      "type": "merge-conflict"
+    },
+    "spelling": {
+      "type": "spelling"
+    }
+  }
+}
