@@ -40,7 +40,7 @@
     "rimraf": "^2.4.3",
     "style-sherpa": "^1.0.0",
     "vinyl-named": "^1.1.0",
-    "webpack": "^2.6.1",
+    "webpack": "^4.29.0",
     "webpack-stream": "^3.2.0",
     "yargs": "^3.8.0"
   },
