@@ -41,7 +41,7 @@
     "style-sherpa": "^1.0.0",
     "vinyl-named": "^1.1.0",
     "webpack": "^2.6.1",
-    "webpack-stream": "^3.2.0",
+    "webpack-stream": "^4.0.0",
     "yargs": "^3.8.0"
   },
   "repository": {
